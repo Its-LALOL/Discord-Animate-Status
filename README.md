@@ -7,7 +7,7 @@ A program to automatically change status in Discrod
 - Very easy setup
 
 # ⚙️ Instructions ⚙️
-1) Downoload This
+1) Download This
 2) Write Token to config.py File
 3) Enter your statuses in statuses.txt
 4) Open main.py File
