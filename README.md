@@ -1,5 +1,5 @@
 # 🔥 Discord Animate Status 🔥
-A program to automatically change status in Discrod
+A program to automatically change status in Discord
 
 # 🌟 Features 🌟
 - Delay can be selected
